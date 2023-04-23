@@ -2,7 +2,9 @@
 
 I am a a web developer/fullstacker
 
-Take a look at my repos
+Take a look at my portfolio:
+
+https://www.jose-garcia.net
 
 <!--
 **Tauromachian/Tauromachian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
