@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a a web developer/fullstacker
+
+Take a look at my repos
+
 <!--
 **Tauromachian/Tauromachian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
