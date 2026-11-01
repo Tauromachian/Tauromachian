@@ -12,6 +12,8 @@ Also familiar with:
 - Nuxt
 - Next
 - Astro
+- Express
+- Nextjs
 
 <!--
 **Tauromachian/Tauromachian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
