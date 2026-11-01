@@ -2,6 +2,10 @@
 
 I am a a web developer/fullstacker
 
+🛠️ Principal technologies:
+- Vue
+- Node
+
 Take a look at my portfolio:
 
 https://www.jose-garcia.net
