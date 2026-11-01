@@ -6,6 +6,13 @@ I am a a web developer/fullstacker
 - Vue
 - Node
 
+Also familiar with:
+- Postgres
+- React
+- Nuxt
+- Next
+- Astro
+
 <!--
 **Tauromachian/Tauromachian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
